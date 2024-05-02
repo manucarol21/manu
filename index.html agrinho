@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Do Campo à Cidade: Colhendo Oportunidades</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Do Campo à Cidade: Colhendo Oportunidades</h1>
+    </header>
+
+    <section id="content">
+        <h2>Sobre o Tema</h2>
+        <p>O movimento do campo para a cidade é uma realidade em muitos países. Este fenômeno pode trazer desafios, mas também oportunidades para o desenvolvimento econômico e social. Esta página explora algumas das maneiras como essa transição pode ser uma fonte de crescimento e inovação.</p>
+
+        <h2>Oportunidades</h2>
+        <ul id="opportunities-list">
+            <li>Migração rural-urbana: como essa migração pode impulsionar o desenvolvimento econômico nas áreas urbanas.</li>
+            <li>Transferência de conhecimento: como a expertise agrícola pode ser aplicada em setores urbanos, como agricultura urbana e tecnologia alimentar.</li>
+            <li>Diversificação econômica: explorando novas oportunidades de negócios e empregos nas cidades, além da agricultura tradicional.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Fonte: Elaborado pelo autor.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
